@@ -16,7 +16,6 @@ Coding with help from Copilot AI
 
 ## Notes
 
-- Each folder (e.g., (C++/HW_Account), (C++/HW_Laptop)) contains a separate C++ program.
 - You can run any `.cpp` file directly using CodeRunner.
 - If you want to change compiler options, go to **Settings > CodeRunner > Executor Map** and edit the C++ command.
 
